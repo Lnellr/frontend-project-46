@@ -1,0 +1,14 @@
+{
+  "name": "meow",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/Lnellr/frontend-project-46/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Lnellr/frontend-project-46/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
